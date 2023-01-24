@@ -4,7 +4,7 @@ Olá, sou estudante do curso de informática no ifal - Campus Arapiraca, sou apa
 
 - 🌱 Atualmente estou aprendendo Front-end.
 - 👯 Pretendo colaborar mais em projetos no Github
-- 💬 Pergunte-me sobre qualquer coisa [Aqui](rafaelbarros.contact@gmail.com)
+- 💬 Pergunte-me sobre qualquer coisa [Aqui](mailto:rafaelbarros.contact@gmail.com)
 - 📫 Como me contactar: [Aqui](https://api.whatsapp.com/send?phone=5582999774488&text=Olá,%20Rafael,%20tudo%20bem?)<br>
 
 <div>
@@ -27,7 +27,6 @@ Olá, sou estudante do curso de informática no ifal - Campus Arapiraca, sou apa
 
 <div>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.barros20/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsb8@aluno.ifal.edu.br) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.barros20/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelbarros.contact@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-barros-949749263/)
 
 </div>
-
