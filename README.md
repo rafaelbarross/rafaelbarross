@@ -27,6 +27,10 @@ Olá, sou estudante do curso de informática no ifal - Campus Arapiraca, sou apa
 
 <div>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.barros20/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelbarros.contact@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-barros-949749263/)
+[![Instagram](https://raw.githubusercontent.com/rafaelbarross/rafaelbarross/35f33adcc0339a0ad381af70042f9e5429226baa/contact-readme/Instagram.svg)](https://www.instagram.com/rafael.barros20/)
+[![Twitter](https://raw.githubusercontent.com/rafaelbarross/rafaelbarross/35f33adcc0339a0ad381af70042f9e5429226baa/contact-readme/Twitter.svg)]()
+[![Discord](https://raw.githubusercontent.com/rafaelbarross/rafaelbarross/35f33adcc0339a0ad381af70042f9e5429226baa/contact-readme/Discord.svg)](https://discord.com/channels/@me)
+[![E-mail](https://raw.githubusercontent.com/rafaelbarross/rafaelbarross/35f33adcc0339a0ad381af70042f9e5429226baa/contact-readme/Gmail.svg)](mailto:rafaelbarros.contact@gmail.com)
+[![LinkedIn](https://raw.githubusercontent.com/rafaelbarross/rafaelbarross/35f33adcc0339a0ad381af70042f9e5429226baa/contact-readme/Linkedin.svg)](https://www.linkedin.com/in/rafael-barros-949749263/)
 
 </div>
