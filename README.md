@@ -8,8 +8,8 @@ Olá, sou estudante do curso de informática no ifal - Campus Arapiraca, sou apa
 - 📫 Como me contactar: [Aqui](https://api.whatsapp.com/send?phone=5582999774488&text=Olá,%20Rafael,%20tudo%20bem?)<br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarross&show_icons=true&theme=tokyonight" alt="Rafael GitHub stats"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarross&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbarross&show_icons=true&theme=tokyonight&card_width=1&border_color=1A1B27&border_radius=10" alt="Rafael GitHub stats"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarross&layout=compact&theme=tokyonight&langs_count=16&border_color=1A1B27&border_radius=10" alt="Top Langs">
 </div>
 
 <div style="display: inline_block; margin-bottom: 15px; margin-top: -px;"><br/>
