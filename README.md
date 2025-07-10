@@ -1,6 +1,6 @@
 <h1>😎Oi, eu sou o Rafael Barros !</h1> 
 
-Olá, sou estudante do curso de informática no ifal - Campus Arapiraca, sou apaixonado por desenvolver em Front-end atualmente no Brazil.
+Olá, sou estudante do curso de Sistemas de informação - Campus Arapiraca, sou apaixonado por desenvolver em Front-end atualmente no Brazil.
 
 - 🌱 Atualmente estou aprendendo Back-end.
 - 👯 Pretendo colaborar mais em projetos no Github
